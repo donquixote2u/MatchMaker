@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/bruce/SW/Android/StudioProjects/MatchMaker/matchMaker/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4_ic_launcher.png.flat",
+        "source": "/home/bruce/SW/Android/StudioProjects/MatchMaker/android_Library/build/intermediates/bundles/debug/res/drawable-ldpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/home/bruce/SW/Android/StudioProjects/MatchMaker/matchMaker/build/intermediates/res/merged/androidTest/debug/layout_activity_main.xml.flat",
+        "source": "/home/bruce/SW/Android/StudioProjects/MatchMaker/android_Library/build/intermediates/bundles/debug/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/bruce/SW/Android/StudioProjects/MatchMaker/matchMaker/build/intermediates/res/merged/androidTest/debug/layout_two_line_list_item.xml.flat",
+        "source": "/home/bruce/SW/Android/StudioProjects/MatchMaker/android_Library/build/intermediates/bundles/debug/res/layout/two_line_list_item.xml"
+    },
+    {
+        "merged": "/home/bruce/SW/Android/StudioProjects/MatchMaker/matchMaker/build/intermediates/res/merged/androidTest/debug/layout_list_element.xml.flat",
+        "source": "/home/bruce/SW/Android/StudioProjects/MatchMaker/android_Library/build/intermediates/bundles/debug/res/layout/list_element.xml"
+    },
+    {
+        "merged": "/home/bruce/SW/Android/StudioProjects/MatchMaker/matchMaker/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_launcher.png.flat",
+        "source": "/home/bruce/SW/Android/StudioProjects/MatchMaker/android_Library/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/home/bruce/SW/Android/StudioProjects/MatchMaker/matchMaker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_launcher.png.flat",
+        "source": "/home/bruce/SW/Android/StudioProjects/MatchMaker/android_Library/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/home/bruce/SW/Android/StudioProjects/MatchMaker/matchMaker/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_launcher.png.flat",
+        "source": "/home/bruce/SW/Android/StudioProjects/MatchMaker/android_Library/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_launcher.png"
+    }
+]

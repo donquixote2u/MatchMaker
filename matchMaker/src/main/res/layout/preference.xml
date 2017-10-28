@@ -1,0 +1,51 @@
+<PreferenceScreen
+	xmlns:android="http://schemas.android.com/apk/res/android">
+	
+<!--
+Copyright 2010 Miguel Martinez de Aguirre Sutton
+
+This file is part of Football.
+
+Football is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+Football is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with Football.  If not, see <http://www.gnu.org/licenses/>.
+-->
+	
+	<EditTextPreference
+		android:key="ucode"
+		android:title="UCode"
+		android:summary="Code which text must start with to be parsed"
+		android:defaultValue="#"
+		/>
+	
+	<EditTextPreference
+		android:key="min"
+		android:title="Minimum players"
+		android:summary="Default number of players needed before a game is started"
+		android:defaultValue="4"
+		/>
+	
+	<EditTextPreference
+		android:key="time"
+		android:title="Time"
+		android:summary="Default time for games to start"
+		android:defaultValue="6pm"
+		/>
+		
+	<EditTextPreference
+		android:key="loc"
+		android:title="Location"
+		android:summary="Default location for games."
+		android:defaultValue="otc"
+		/>
+	
+</PreferenceScreen>

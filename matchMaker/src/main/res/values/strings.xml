@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Game Setup</string>
+	<string name="mainDevEmail">maguirrem91@googlemail.com</string>
+	<string name="codeLoc">to be released on Google Code</string>
+	<string name="licenseName">GPL v3</string>
+	<string name="dev">Miguel Martinez de Aguirre</string>
+	<string name="license">   
+	                   GNU GENERAL PUBLIC LICENSE
+	                   Version 3, 29 June 2007
+</string>
+<string name="yesConf">Enough people have replied for this game to work and it will go ahead.</string>
+<string name="yesWait">Thanks. Not enough people have answered yet to confirm this game but you will be informed if they do.</string>
+<string name="yesStarted">This game already has enough players and may have started.</string>
+<string name="yesConfLast">You should receive a confirmation text with this one.</string>
+<string name="errorCodeNotFound">There seems to be a mistake. That code was not found.</string>
+<string name="okayThanks">Okay, thanks.</string>
+<string name="errorSyntax">Incorrect syntax. Please try again.</string>
+<string name="startAll">Someone suggests a game of tennis:</string>
+<string name="startReply">Invitations sent. You will also have to reply. Code: </string>
+<string name="stopSucc">Game successfully stopped. Code: </string>
+<string name="leaveSucc">You have successfully been removed from the invitation list. To resume receipt of invitations you must re-join.</string>
+<string name="awaySucc">You are now away. Invitations will be paused until you return by texting back.</string>
+<string name="backSucc">You are now back. Invitations will resume.</string>
+<string name="joinSucc">Welcome. You will now be automatically invited to football and can use the other features. Text \'syntax\' to find out more.</string>
+</resources>

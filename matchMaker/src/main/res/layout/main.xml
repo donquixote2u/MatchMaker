@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Copyright 2010 Miguel Martinez de Aguirre Sutton
+
+This file is part of Football.
+
+Football is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+Football is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with Football.  If not, see <http://www.gnu.org/licenses/>.
+-->
+
+<TableLayout android:id="@+id/RelativeLayoutMain"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android" 
+	android:padding="10px"
+	>
+
+	<Button android:id="@+id/ButtonMatches"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="Matches"
+		android:clickable="true"
+		/>
+	
+	<Button android:id="@+id/ButtonPeople" 
+		android:layout_below="@id/ButtonMatches" 
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content"
+		android:clickable="true"
+		android:text="People"
+		/>
+	
+	<Button android:layout_below="@id/ButtonPeople" 
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content"
+		android:id="@+id/ButtonPrefs" 
+		android:text="Preferences" 
+		android:clickable="true"
+		/>
+		
+	<Button android:layout_below="@id/ButtonPrefs" 
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content"
+		android:id="@+id/ButtonAbout" 
+		android:text="About" 
+		android:clickable="true"
+		/>
+	
+	<Button android:id="@+id/ButtonClean"
+		android:layout_below="@id/ButtonPrefs"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:clickable="true"
+		android:text="Clean inbox of event messages"
+		/>
+	
+</TableLayout>

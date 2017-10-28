@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Copyright 2010 Miguel Martinez de Aguirre Sutton
+
+This file is part of Football.
+
+Football is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+Football is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with Football.  If not, see <http://www.gnu.org/licenses/>.
+-->
+
+<LinearLayout android:id="@+id/LinearLayoutAbout"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:padding="10px"
+	android:orientation="vertical"
+	>
+	
+	<TextView android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:text="Main developer"
+		android:textSize="20sp"
+		android:textStyle="bold"
+		/>
+	
+		<TextView android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:text="@string/dev"
+			android:paddingLeft="12px"
+			android:paddingBottom="12px"
+			/>
+	
+	<TextView android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:text="Main developer email"
+		android:textSize="20sp"
+		android:textStyle="bold"
+		/>
+		
+		<TextView android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:text="@string/mainDevEmail"
+			android:paddingLeft="12px"
+			android:paddingBottom="12px"
+			/>
+	
+	<TextView android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:text="Code location"
+		android:textSize="20sp"
+		android:textStyle="bold"
+		/>
+		
+		<TextView android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:text="@string/codeLoc"
+			android:paddingLeft="12px"
+			android:paddingBottom="12px"
+			/>
+	
+	<TextView android:id="@+id/TextViewLicenseTitle"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:text="License"
+		android:textSize="20sp"
+		android:textStyle="bold"
+		/>
+		
+		<TextView android:id="@+id/TextViewLicenseName"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:text="@string/licenseName"
+			android:paddingLeft="12px"
+			android:paddingBottom="12px"
+			/>
+		
+	<ScrollView android:layout_width="fill_parent"
+		android:layout_height="wrap_content">
+		
+		<TextView android:id="@+id/TextViewLicense"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:text="@string/license"
+			android:visibility="gone"
+			/>
+	
+	</ScrollView>
+
+</LinearLayout>

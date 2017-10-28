@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Copyright 2010 Miguel Martinez de Aguirre Sutton
+
+This file is part of Football.
+
+Football is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+Football is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with Football.  If not, see <http://www.gnu.org/licenses/>.
+-->
+
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:padding="10px"
+	>
+	
+	<TableRow>
+	
+		<TextView
+			android:text="Min people: "
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			/>
+		
+		<EditText
+			android:id="@+id/EditMin"
+			android:layout_height="wrap_content" android:layout_width="150px"/>
+			
+	</TableRow>
+	
+	<TableRow>
+		
+		<TextView
+			android:text="Time: "
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			/>
+		
+		<EditText
+			android:id="@+id/EditTime"
+			android:layout_width="50px"
+			android:layout_height="wrap_content"
+			/>
+	
+	</TableRow>
+	
+	<TableRow>
+		
+		<TextView
+			android:text="Location: "
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			/>
+		
+		<EditText
+			android:id="@+id/EditLoc"
+			android:layout_width="50px"
+			android:layout_height="wrap_content"
+			/>
+	
+	</TableRow>
+	
+	<Button
+		android:id="@+id/ButtonDoAdd"
+		android:text="Add Match"
+		/>
+</TableLayout>
