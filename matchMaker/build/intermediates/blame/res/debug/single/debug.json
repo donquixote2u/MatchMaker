@@ -13,7 +13,7 @@
     },
     {
         "merged": "/home/bruce/SW/Android/StudioProjects/MatchMaker/matchMaker/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
-        "source": "/home/bruce/SW/Android/StudioProjects/MatchMaker/android_Library/build/intermediates/bundles/debug/res/layout/activity_main.xml"
+        "source": "/home/bruce/SW/Android/StudioProjects/MatchMaker/android_Library/build/intermediates/packaged_res/debug/layout/activity_main.xml"
     },
     {
         "merged": "/home/bruce/SW/Android/StudioProjects/MatchMaker/matchMaker/build/intermediates/res/merged/debug/layout_addgroup.xml.flat",
@@ -25,7 +25,7 @@
     },
     {
         "merged": "/home/bruce/SW/Android/StudioProjects/MatchMaker/matchMaker/build/intermediates/res/merged/debug/drawable-ldpi-v4_ic_launcher.png.flat",
-        "source": "/home/bruce/SW/Android/StudioProjects/MatchMaker/android_Library/build/intermediates/bundles/debug/res/drawable-ldpi-v4/ic_launcher.png"
+        "source": "/home/bruce/SW/Android/StudioProjects/MatchMaker/android_Library/build/intermediates/packaged_res/debug/drawable-ldpi-v4/ic_launcher.png"
     },
     {
         "merged": "/home/bruce/SW/Android/StudioProjects/MatchMaker/matchMaker/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
@@ -33,7 +33,7 @@
     },
     {
         "merged": "/home/bruce/SW/Android/StudioProjects/MatchMaker/matchMaker/build/intermediates/res/merged/debug/layout_two_line_list_item.xml.flat",
-        "source": "/home/bruce/SW/Android/StudioProjects/MatchMaker/android_Library/build/intermediates/bundles/debug/res/layout/two_line_list_item.xml"
+        "source": "/home/bruce/SW/Android/StudioProjects/MatchMaker/android_Library/build/intermediates/packaged_res/debug/layout/two_line_list_item.xml"
     },
     {
         "merged": "/home/bruce/SW/Android/StudioProjects/MatchMaker/matchMaker/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
@@ -41,7 +41,7 @@
     },
     {
         "merged": "/home/bruce/SW/Android/StudioProjects/MatchMaker/matchMaker/build/intermediates/res/merged/debug/layout_list_element.xml.flat",
-        "source": "/home/bruce/SW/Android/StudioProjects/MatchMaker/android_Library/build/intermediates/bundles/debug/res/layout/list_element.xml"
+        "source": "/home/bruce/SW/Android/StudioProjects/MatchMaker/android_Library/build/intermediates/packaged_res/debug/layout/list_element.xml"
     },
     {
         "merged": "/home/bruce/SW/Android/StudioProjects/MatchMaker/matchMaker/build/intermediates/res/merged/debug/layout_addmatch.xml.flat",

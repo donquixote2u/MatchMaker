@@ -72,7 +72,7 @@ ADDED from /home/bruce/SW/Android/StudioProjects/MatchMaker/matchMaker/src/main/
 		ADDED from /home/bruce/SW/Android/StudioProjects/MatchMaker/matchMaker/src/main/AndroidManifest.xml:19:7-39
 	android:name
 		ADDED from /home/bruce/SW/Android/StudioProjects/MatchMaker/matchMaker/src/main/AndroidManifest.xml:18:7-51
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from /home/bruce/SW/Android/StudioProjects/MatchMaker/matchMaker/src/main/AndroidManifest.xml:20:4-23:20
 action#android.intent.action.MAIN
 ADDED from /home/bruce/SW/Android/StudioProjects/MatchMaker/matchMaker/src/main/AndroidManifest.xml:21:5-57
@@ -88,7 +88,7 @@ ADDED from /home/bruce/SW/Android/StudioProjects/MatchMaker/matchMaker/src/main/
 		ADDED from /home/bruce/SW/Android/StudioProjects/MatchMaker/matchMaker/src/main/AndroidManifest.xml:25:62-94
 	android:name
 		ADDED from /home/bruce/SW/Android/StudioProjects/MatchMaker/matchMaker/src/main/AndroidManifest.xml:25:13-61
-intent-filter#android.provider.Telephony.SMS_RECEIVED
+intent-filter#action:name:android.provider.Telephony.SMS_RECEIVED
 ADDED from /home/bruce/SW/Android/StudioProjects/MatchMaker/matchMaker/src/main/AndroidManifest.xml:26:4-28:20
 action#android.provider.Telephony.SMS_RECEIVED
 ADDED from /home/bruce/SW/Android/StudioProjects/MatchMaker/matchMaker/src/main/AndroidManifest.xml:27:5-70
