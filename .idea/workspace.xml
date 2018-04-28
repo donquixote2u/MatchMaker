@@ -4,59 +4,138 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1dbe027d-b298-48b5-b103-30a19f9cf8cd" name="Default" comment="reload">
-      <change beforePath="" afterPath="$PROJECT_DIR$/android_Library/build/intermediates/incremental/packageDebugAssets/merger.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/android_Library/build/intermediates/packaged_res/debug/drawable-hdpi-v4/ic_launcher.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/android_Library/build/intermediates/packaged_res/debug/drawable-ldpi-v4/ic_launcher.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/android_Library/build/intermediates/packaged_res/debug/drawable-mdpi-v4/ic_launcher.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/android_Library/build/intermediates/packaged_res/debug/drawable-xhdpi-v4/ic_launcher.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/android_Library/build/intermediates/packaged_res/debug/layout/activity_main.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/android_Library/build/intermediates/packaged_res/debug/layout/list_element.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/android_Library/build/intermediates/packaged_res/debug/layout/two_line_list_item.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/android_Library/build/intermediates/packaged_res/debug/values/values.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/android_Library/build/intermediates/symbols/debug/R.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/ST7Zim1lUMcbdzhFz6BHRw0GvKY=" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/splits-support/debug/apk-list/apk-list.gson" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/splits-support/debug/split-list/split-list.gson" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/bvw/android_library/R$drawable.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/bvw/android_library/R$id.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/bvw/android_library/R$layout.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/bvw/android_library/R$string.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/bvw/android_library/R$style.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/bvw/android_library/R.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/About$1.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/About.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/AddGroup$1.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/AddGroup.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/AddMatch$1.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/AddMatch.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/AddPerson$1.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/AddPerson.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/Backend.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/BuildConfig.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/DbHandler.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/Main$1.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/Main.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/Matches$1.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/Matches.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/People$1.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/People.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/Prefs.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/R$drawable.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/R$id.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/R$layout.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/R$string.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/R$style.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/R.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/Receiver.dex" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/incremental/debug-mergeJavaRes/merge-state" />
-      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Cw4jhK9Szi9o4oO8_K30XZ8HCDU=" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/RXeZ47Jeby852OGKr0HOJHlimIE=" />
-      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/incremental/debug-mergeJniLibs/merge-state" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/incremental/debug-mergeJniLibs/merge-state" />
-      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/incremental/debug-mergeJniLibs/zip-cache/Cw4jhK9Szi9o4oO8_K30XZ8HCDU=" afterPath="$PROJECT_DIR$/matchMaker/build/intermediates/incremental/debug-mergeJniLibs/zip-cache/RXeZ47Jeby852OGKr0HOJHlimIE=" />
+    <list default="true" id="1dbe027d-b298-48b5-b103-30a19f9cf8cd" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileChanges/last-build.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileContent/fileContent.lock" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/resourceHashesCache.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/jarAnalysis.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskJars.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileChanges/last-build.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileContent/fileContent.lock" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_18_0_0_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/MatchMaker.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android_Library/android_Library.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android_Library/build/intermediates/classes/debug/com/bvw/android_library/BuildConfig.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android_Library/build/intermediates/classes/debug/com/bvw/android_library/ContactDetails.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android_Library/build/intermediates/classes/debug/com/bvw/android_library/ContactDetailsAdapter$ViewHolder.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android_Library/build/intermediates/classes/debug/com/bvw/android_library/ContactDetailsAdapter.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android_Library/build/intermediates/classes/debug/com/bvw/android_library/ContactGroup.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android_Library/build/intermediates/classes/debug/com/bvw/android_library/ContactGroupAdapter$ViewHolder.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android_Library/build/intermediates/classes/debug/com/bvw/android_library/ContactGroupAdapter.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android_Library/build/intermediates/classes/debug/com/bvw/android_library/Message_Listview$MessageAdapter$MessageDetails.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android_Library/build/intermediates/classes/debug/com/bvw/android_library/Message_Listview$MessageAdapter.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android_Library/build/intermediates/classes/debug/com/bvw/android_library/Message_Listview.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android_Library/build/intermediates/classes/debug/com/bvw/android_library/R$drawable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android_Library/build/intermediates/classes/debug/com/bvw/android_library/R$id.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android_Library/build/intermediates/classes/debug/com/bvw/android_library/R$layout.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android_Library/build/intermediates/classes/debug/com/bvw/android_library/R$string.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android_Library/build/intermediates/classes/debug/com/bvw/android_library/R$style.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android_Library/build/intermediates/classes/debug/com/bvw/android_library/R.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android_Library/build/intermediates/classes/debug/com/bvw/android_library/getContactGroups.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android_Library/build/intermediates/classes/debug/com/bvw/android_library/getContacts.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/android_Library/src/main/java/com/bvw/android_library/Message_Listview.java" afterPath="$PROJECT_DIR$/android_Library/src/main/java/com/bvw/android_library/Message_Listview.java" />
+      <change beforePath="$PROJECT_DIR$/android_Library/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/android_Library/src/main/res/layout/activity_main.xml" />
+      <change beforePath="$PROJECT_DIR$/android_Library/src/main/res/layout/list_element.xml" afterPath="$PROJECT_DIR$/android_Library/src/main/res/layout/list_element.xml" />
+      <change beforePath="$PROJECT_DIR$/android_Library/src/main/res/layout/two_line_list_item.xml" afterPath="$PROJECT_DIR$/android_Library/src/main/res/layout/two_line_list_item.xml" />
+      <change beforePath="$PROJECT_DIR$/android_Library/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/android_Library/src/main/res/values/styles.xml" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" afterPath="$PROJECT_DIR$/gradlew.bat" />
+      <change beforePath="$PROJECT_DIR$/local.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/classes/debug/com/bvw/android_library/R$drawable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/classes/debug/com/bvw/android_library/R$id.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/classes/debug/com/bvw/android_library/R$layout.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/classes/debug/com/bvw/android_library/R$string.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/classes/debug/com/bvw/android_library/R$style.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/classes/debug/com/bvw/android_library/R.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/classes/debug/com/maguirrem/matchmaker/About$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/classes/debug/com/maguirrem/matchmaker/About.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/classes/debug/com/maguirrem/matchmaker/AddGroup$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/classes/debug/com/maguirrem/matchmaker/AddGroup.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/classes/debug/com/maguirrem/matchmaker/AddMatch$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/classes/debug/com/maguirrem/matchmaker/AddMatch.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/classes/debug/com/maguirrem/matchmaker/AddPerson$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/classes/debug/com/maguirrem/matchmaker/AddPerson.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/classes/debug/com/maguirrem/matchmaker/Backend.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/classes/debug/com/maguirrem/matchmaker/BuildConfig.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/classes/debug/com/maguirrem/matchmaker/DbHandler.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/classes/debug/com/maguirrem/matchmaker/Main$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/classes/debug/com/maguirrem/matchmaker/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/classes/debug/com/maguirrem/matchmaker/Matches$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/classes/debug/com/maguirrem/matchmaker/Matches.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/classes/debug/com/maguirrem/matchmaker/People$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/classes/debug/com/maguirrem/matchmaker/People.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/classes/debug/com/maguirrem/matchmaker/Prefs.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/classes/debug/com/maguirrem/matchmaker/R$drawable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/classes/debug/com/maguirrem/matchmaker/R$id.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/classes/debug/com/maguirrem/matchmaker/R$layout.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/classes/debug/com/maguirrem/matchmaker/R$string.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/classes/debug/com/maguirrem/matchmaker/R$style.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/classes/debug/com/maguirrem/matchmaker/R.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/classes/debug/com/maguirrem/matchmaker/Receiver.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/res/debug/resources-debug.ap_" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/bvw/android_library/R$drawable.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/bvw/android_library/R$id.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/bvw/android_library/R$layout.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/bvw/android_library/R$string.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/bvw/android_library/R$style.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/bvw/android_library/R.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/About$1.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/About.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/AddGroup$1.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/AddGroup.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/AddMatch$1.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/AddMatch.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/AddPerson$1.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/AddPerson.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/Backend.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/BuildConfig.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/DbHandler.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/Main$1.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/Main.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/Matches$1.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/Matches.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/People$1.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/People.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/Prefs.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/R$drawable.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/R$id.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/R$layout.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/R$string.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/R$style.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/R.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexBuilder/debug/2/com/maguirrem/matchmaker/Receiver.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/build/outputs/apk/debug/matchMaker-debug.apk" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/matchMaker/matchMaker.iml" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -3060,6 +3139,13 @@
       </map>
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="35" />
     <option name="y" value="49" />
@@ -3068,7 +3154,7 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="AndroidView" proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -3119,6 +3205,10 @@
               <item name="matchMaker" type="feadf853:AndroidModuleNode" />
               <item name="res" type="d4f16f75:AndroidResFolderNode" />
               <item name="values" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="MatchMaker" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
             </path>
           </expand>
           <select />
@@ -3536,7 +3626,21 @@
       <option name="project" value="LOCAL" />
       <updated>1524953870895</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="reload">
+      <created>1524956397146</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1524956397146</updated>
+    </task>
+    <task id="LOCAL-00003" summary="reload">
+      <created>1524958164303</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1524958164303</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -3548,7 +3652,7 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.50321394" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -3561,7 +3665,7 @@
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4" sideWeight="0.49678603" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -3589,6 +3693,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="5" lean-forward="false" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
           <folding />
         </state>
       </provider>
