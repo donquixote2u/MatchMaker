@@ -1,70 +1,44 @@
-#summary Overview of the syntax used in texting the server phone.
-#labels Featured
+﻿#summary Overview of the syntax used in texting the server phone.
 
-= Syntax =
+= Syntax: =
 
 == UCode ==
-
 All SMS messages sent to the server phone must begin with the unique code chosen by the owner (UCode in preferences; default `wy`). The following commands must be preceded by that code to be acknowledged.
 
 == Join ==
 `join name`
-
 Adds phone number to the database for automatic invitation and acceptance of other commands.
 ||*name*||Name used to identify number to phone user.||
 
-
 == Start ==
 `start [min [time [location]]]`
-
 Creates a new game with defined or default settings. Sends out invitations with a code used for replies and ending the game.
 The values are optional and will default to the owner's preference but the order must be kept, e.g. to change the time from default, min must also be given.
-
 ||min||Minimum number of people to play. Once this is reached, the game will be confirmed to those who replied affirmatively.||
 ||time||The time for which the game is scheduled. Purely for the information of the recipient.||
 ||location||The location where the game is to take place. Purely for the information of the recipient.||
 
 
-== Yes ==
-`yes code`
-
-Used to reply affirmatively to a game.
+== Yes == `yes code`
+ "y"  Used to reply affirmatively to a game.
 ||code||Code sent with the invitation text. It is always one lowercase letter.||
 
-
-== No ==
-`no code`
-
-Used to reply negatively to a game.
+== No ==`no code`
+"n"  Used to reply negatively to a game.
 ||code||Code sent with the invitation text. It is always one lowercase letter.||
 
-
-== Stop ==
-`stop code`
-
+== Stop ==`stop code`
 Used when the game has ended or if not enough people are gathered before it is too late. Deletes game from database and does not admit any more replies until code is re-used in a separate game.
 ||code||Code sent with the invitation text. It is always one lowercase letter.||
 
-
-== Away ==
-`away`
-
+== Away ==`away`
 Used to pause invitations to the sender. Useful for holidays. Cancelled by `back`.
 
-
-== Back ==
-`back`
-
+== Back ==`back`
 Cancels `away` status and unpauses invitations. If a game was scheduled whilst away for after return, no invitation will be sent.
 
-
-== Leave ==
-`leave`
-
+== Leave ==`leave`
 Deletes sender from database. All invitations will be permanently stopped and no further commands will be accepted other than `join`.
 
-
-== Syntax ==
-`syntax`
-
+== Syntax ==`syntax`
 Replies with a short reminder of these commands.

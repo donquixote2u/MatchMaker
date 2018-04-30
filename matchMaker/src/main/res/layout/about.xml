@@ -34,27 +34,7 @@ along with Football.  If not, see <http://www.gnu.org/licenses/>.
 		android:textStyle="bold"
 		/>
 	
-		<TextView android:layout_width="fill_parent"
-			android:layout_height="wrap_content"
-			android:text="@string/dev"
-			android:paddingLeft="12px"
-			android:paddingBottom="12px"
-			/>
-	
-	<TextView android:layout_width="fill_parent"
-		android:layout_height="wrap_content"
-		android:text="Main developer email"
-		android:textSize="20sp"
-		android:textStyle="bold"
-		/>
-		
-		<TextView android:layout_width="fill_parent"
-			android:layout_height="wrap_content"
-			android:text="@string/mainDevEmail"
-			android:paddingLeft="12px"
-			android:paddingBottom="12px"
-			/>
-	
+
 	<TextView android:layout_width="fill_parent"
 		android:layout_height="wrap_content"
 		android:text="Code location"
